@@ -1,0 +1,4 @@
+综合姚加权等(2021)和姜富伟等(2020)词典中的非正式文本词典并删除重复值；
+适用于股吧和社交媒体等金融领域文本的情感分析；
+
+https://github.com/DavionWu2018/Sentiment_dictionary

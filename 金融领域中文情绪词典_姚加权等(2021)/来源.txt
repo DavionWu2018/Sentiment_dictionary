@@ -1,0 +1,3 @@
+https://gitee.com/arlionn/SentimentDictionaries
+
+姚加权，冯绪，王赞钧，纪荣嵘，张维. 语调、情绪及市场影响：基于金融情绪词典. 管理科学学报，2021. 24(5), 26-46.
